@@ -1,5 +1,5 @@
 
-# 📲 *Calculeter*.
+# 📲 *Calculator*.
 
 Experience precise and convenient calculations on our versatile and user-friendly calculator website.
 #### I will be happy to see my progress and give me your opinion !!
