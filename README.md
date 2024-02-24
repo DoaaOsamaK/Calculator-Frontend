@@ -1,10 +1,57 @@
 
-# 📲 *Calculator*.
+# Calculator Website
 
-Experience precise and convenient calculations on our versatile and user-friendly calculator website.
-#### I will be happy to see my progress and give me your opinion !!
-Visit my LinkedIn Account to see the earliest progresses
+![photo1708756971](https://github.com/DoaaOsamaK/Calculator-Frontend/assets/147305995/5c1887e5-3f4e-42a4-914a-716c0592b0f3)
 
-👉🏻 [D U A A O](https://www.linkedin.com/in/dodo88/)
---
-![enter image description here](https://cdn.gencraft.com/prod/user/9be89430-198c-4712-83be-46579ade2f98/74aaae15-909d-4659-b422-eb551324e258/image/image1_0.jpg?Expires=1708684627&Signature=bp99aSFWYkIKU82g-AfeDIIua95WgNiafNF2wyYEOmus-54Yg-tgTh09W-tOr15ZfHGabTu11OjTyRPENLR9~XuKRpMp84DyFjbaXC27gbPBX2mitW6a~fBiCbpI5gfWwrw1Ijfhhz6rJUoEL6Hl2~zRj-PI9bKCtbhxYgTF7lTvzOCIdzWquoBz6cAJK1E4mN7naa9s7iNeZALshi~EadlGeY0DexyNl1ka7WkNW~kL4eID5OaITV6bQeE0ghB4Ys4eXkE5NMDBypnb61ly9e7cIM0NNNrmtGzyd82ducYUZGZilQidikq3ad-c--FzZ0aRb4tc2ce4C6AIC~62BA__&Key-Pair-Id=K3RDDB1TZ8BHT8)
+
+## Table of Contents
+
+- [About the Project](#about-the-project)
+- [Technologies Used](#technologies-used)
+- [Demo](#demo)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## About the Project
+
+This project is a simple calculator website developed using HTML, CSS, and JavaScript. The calculator can perform basic mathematical operations such as addition, subtraction, multiplication, and division.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Demo
+
+[Live Demo](https://doaaosamak.github.io/Calculator-Frontend/)
+
+
+## Features
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## Getting Started
+
+To use the calculator, simply open the `index.html` file in a web browser.
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to the project, please follow these steps:
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/YourFeature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin feature/YourFeature`)
+5. Create a new Pull Request
+
+
+## Contact
+
+For any questions or feedback, feel free to contact [Doa'a Osama](doaaosamakhalaf@gmail.com).
